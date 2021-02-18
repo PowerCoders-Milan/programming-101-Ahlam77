@@ -1,7 +1,10 @@
 //insert your pseudocode below
 /* we can make 2 var as month and days.
 for the var month will contin the name of the months.
-for the second var will contin the num of day of the month 
+for the second var will contin the num of day of the month before
+after that we  need to calcolet the days from the months befor + the days are requeird 
+ex" if i want to the 4th of april it means (31 + 28 + 31 + 4), all days previus the day we want.
+
 
 here
 */
